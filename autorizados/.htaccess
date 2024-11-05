@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Area de Autorizados"
+AuthUserFile /var/www/trabajo/.htpasswd
+Require valid-user
